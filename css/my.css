@@ -1,0 +1,43 @@
+.formdiv {
+    box-shadow: 1px 2px 5px grey;
+    height: auto;
+    width: 350px;
+}
+
+.forminnerdiv {
+    width: 100%;
+    padding: 25px;
+}
+
+.heading {
+    margin-top: -24px;
+    width: 93.12%;
+    height: 70px;
+    background-color: #009fb4;
+    padding-left: 25px;
+}
+
+.heading h4 {
+    padding-top: 20px;
+    color: white !important;
+}
+
+
+/*Pagination numbers*/
+
+/*.paging-nav a {
+    margin: auto 2px;
+    text-decoration: none;
+    padding: 1px 7px;
+    color: white;
+    box-shadow: 1px 2px 3px grey;
+    font-size: 20px;
+    border-radius: 1px;
+    background: #00BCD4;
+  
+}
+
+.paging-nav .selected-page {
+    color: #898989;
+    font-weight: bold;
+}*/
