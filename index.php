@@ -4,7 +4,9 @@ if($_SESSION['username']=="")
 {
     header("location:login.php");   
 }
-   
+/*Add new changes*/
+
+echo "this is new line added";
 ?>
 <!doctype html>
 <html lang="en">
